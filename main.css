@@ -1,3 +1,25 @@
 body {
     background-color: cadetblue;
 }
+
+.dino-barn {
+    display: flex
+}
+
+.dinosaur {
+    border: 2px solid white;
+    width: 200px;
+}
+
+.assignments {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.assignment {
+    border: 2px solid white;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
