@@ -72,14 +72,14 @@ const employee = {
 // console.log(employee.status)
 
 
-const employeeStatus = (object) => {
-    if (object.firstName[0] === 'K') {
-        object.status = 'vip'
-    } else {
-        object.status = 'peasant'
-    }
-}
+// const employeeStatus = (object) => {
+//     if (object.firstName[0] === 'K') {
+//         object.status = 'vip'
+//     } else {
+//         object.status = 'peasant'
+//     }
+// }
 
-employeeStatus(employee)
-console.log(employee.status)
+// employeeStatus(employee)
+// console.log(employee.status)
 
